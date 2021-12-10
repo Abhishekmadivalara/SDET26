@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-09T15:17:47 IST" name="Default suite" finished-at="2021-12-09T15:17:47 IST" duration-ms="188">
+  <suite started-at="2021-12-10T10:02:31 IST" name="Default suite" finished-at="2021-12-10T10:02:32 IST" duration-ms="222">
     <groups>
     </groups>
-    <test started-at="2021-12-09T15:17:47 IST" name="Default test" finished-at="2021-12-09T15:17:47 IST" duration-ms="188">
-      <class name="SDETpractice.SampleTest">
-        <test-method signature="test()[pri:0, instance:SDETpractice.SampleTest@3315d2d7]" started-at="2021-12-09T15:17:47 IST" name="test" finished-at="2021-12-09T15:17:47 IST" duration-ms="28" status="PASS">
+    <test started-at="2021-12-10T10:02:31 IST" name="Default test" finished-at="2021-12-10T10:02:32 IST" duration-ms="222">
+      <class name="SDETpractice.Test0">
+        <test-method signature="test()[pri:0, instance:SDETpractice.Test0@3541cb24]" started-at="2021-12-10T10:02:31 IST" name="test" finished-at="2021-12-10T10:02:32 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- SDETpractice.SampleTest -->
+      </class> <!-- SDETpractice.Test0 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

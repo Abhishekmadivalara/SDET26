@@ -9,9 +9,8 @@ public class Test0 {
 	  {
 		  
 		  System.out.println("hello TestNG");
+		  System.out.println("hello");
 	  }
 		
 		
 	}
-
-
